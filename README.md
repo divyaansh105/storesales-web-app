@@ -1,1 +1,0 @@
-# storesales-web-app
